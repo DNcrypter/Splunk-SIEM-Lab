@@ -21,7 +21,7 @@ This lab is design to practice log analysis using universal forwarder and indexe
 - Ubuntu 22.04 installed on Virtual machine.
 
 ## 👩🏻‍🔬🧪Lab set-up
-###  ⚙️Splunk indexer installation  
+### ⚙️Splunk indexer installation:  
 
 **Step 1** : Register on splunk website. you can use tempmail service inplace of your mail_id. then, to download splunk enter below commands in your terminal.
 ```
@@ -46,7 +46,7 @@ http:localhost:8000/
 
 
 
-## ⚙️ Cofiguration and error handling  
+### ⚙️Cofiguration and error handling:  
 
 **Step 1** : To access splunk from anywhere with your terminal create link using below command.
 ```
@@ -66,7 +66,7 @@ http:localhost:8000/
 
 **Step 4** : After login, Setup listener in splunk indexer. Go to **setting > forwarding and receiving>configure receiving** click on add new and enter port (9997) we will use further it to add in forwarder.
 
-**⚙️ Splunk Universal Forwarder installation**  
+### ⚙️Splunk Universal Forwarder installation:  
 
 While installing fowarder in same machine we have to be careful that it can create conflict. Yes, I stuck there with config problem for 2 hours. specially with error as $SPLUNK_HOME and $SPLUNK_ETC not define? ,etc.
 
@@ -105,7 +105,7 @@ sudo /opt/splunkforwarder/bin/splunk start --accept-license
 ```
 **Note** : As i am using ubuntu linux i enter /var/log, you can change with your logs stores.
 
-**⚙️ Configuring and Error handling**
+### ⚙️Configuring and Error handling:
 
 While configuring forwarder specially in same machine you could face error like $SPLUNK_HOME and $SPLUNK_ETC variable on setup, etc
 
