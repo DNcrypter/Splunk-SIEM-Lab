@@ -21,7 +21,7 @@ This lab is design to practice log analysis using universal forwarder and indexe
 - Ubuntu 22.04 installed on Virtual machine.
 
 ## 👩🏻‍🔬🧪Lab set-up
-**⚙️ Splunk indexer installation**  
+##  ⚙️Splunk indexer installation  
 
 **Step 1** : Register on splunk website. you can use tempmail service inplace of your mail_id. then, to download splunk enter below commands in your terminal.
 ```
