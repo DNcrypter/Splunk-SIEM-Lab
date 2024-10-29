@@ -9,6 +9,8 @@ Splunk is a powerful platform for searching, monitoring, and analyzing machine-g
 ## 🍁Introduction
 This lab is design to practice log analysis using universal forwarder and indexer. We will Install and Configure Splunk Indexer and Forwarder on Ubuntu linux machine.
 
+![](https://github.com/DNcrypter/Splunk-SIEM-Lab/blob/main/splunk_2.png)
+
 ## 🔗Prerequisites
 - basic understanding of command-line
 - internet connectivity
