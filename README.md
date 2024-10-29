@@ -1,6 +1,7 @@
 # Splunk-Home-Lab
 
-Splunk is a powerful platform for searching, monitoring, and analyzing machine-generated big logs data in real-time. The Splunk Indexer processes incoming data, transforming it into searchable events, while the Forwarder collects and forwards log data to the Indexer for analysis. Together, they provide comprehensive insights into your systems and applications.
+Splunk is a powerful platform for searching, monitoring, and analyzing machine-generated big logs data in real-time. The Splunk Indexer processes incoming data, transforming it into searchable events, while the Forwarder collects and forwards log data to the Indexer for analysis. Together, they provide comprehensive insights into your systems and applications.  
+
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
         [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nikhil--chaudhari/)
         [![Medium](https://img.shields.io/badge/Medium-Writeups-black)](https://medium.com/@nikhil-c)
